@@ -8,7 +8,7 @@
 
 Checkout My LinkedIn prfile : https://www.linkedin.com/in/dimuthu-kasun/
 
-My Certifications = >
+My Certifications = > \
     # [Oracle Certified Associate, Java SE 8 Programmer](https://www.youracclaim.com/badges/69722c1c-67a9-4c28-9745-c7afe19afeda/linked_in)\
     # [Advanced Machine Learning and Signal Processing](https://www.youracclaim.com/badges/5907759a-df48-4453-bae2-3fb37f11023a/linked_in_profile)\
     # [Architecting with Google Kubernetes Engine: Workloads](https://www.coursera.org/account/accomplishments/records/39YV6EE83V7R?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)\
@@ -20,7 +20,7 @@ My Certifications = >
     # [AWS Fundamentals: Going Cloud-Native](https://www.coursera.org/account/accomplishments/records/HT3X39P2RNWK?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)\
     # [AWS Fundamentals: Migrating to the Cloud](https://www.coursera.org/account/accomplishments/records/59ZY7UGBZR7P?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)\
     # [Getting Started with Azure](https://www.coursera.org/account/accomplishments/records/PV22LRA6EHNA?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)\
-    # [Google Cloud Platform Big Data and Machine Learning Fundamentals](https://www.coursera.org/account/accomplishments/records/8JSPLP4WRFFT?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)\
+    # [Google Cloud Platform Big Data and Machine Learning Fundamentals](https://www.coursera.org/account/accomplishments/records/8JSPLP4WRFFT?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
    
     
 
