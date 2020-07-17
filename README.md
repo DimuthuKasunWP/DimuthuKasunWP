@@ -28,9 +28,7 @@ My Certifications = > \
 
 🤔 My email kasunwpdimuthu@gmail.com
 
-😄 Pronouns: he/him/his
 
-⚡ Fun fact: I earned my first money at the age of 12,  I was the only kid in my class who knew windows installation, as well as cracking windows password
 
 ![](https://firebasestorage.googleapis.com/v0/b/devfest-2019-770f2.appspot.com/o/one.jpg?alt=media&token=34ac03d6-ce81-4610-8083-26909ec0a7e9)
 ![](https://firebasestorage.googleapis.com/v0/b/devfest-2019-770f2.appspot.com/o/two.jpg?alt=media&token=f6bc1b10-22cf-4c27-acb1-4bed74ed99de)
