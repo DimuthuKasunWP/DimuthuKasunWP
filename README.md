@@ -25,7 +25,7 @@ My Certifications = > \
    
     
 
-👯 I am Member Training and Development Officer at UCSC ISACA Student Group and i'm a part time developer at [Creative-2](https://www.linkedin.com/company/creative-2/)
+👯 I am Member Training and Development Officer at UCSC ISACA Student Group and  part time developer at [Creative-2](https://www.linkedin.com/company/creative-2/)
 
 🤔 My email kasunwpdimuthu@gmail.com
 
