@@ -40,6 +40,7 @@
 - [ERROR PAGES CUSTOMIZATION — WSO2 IDENTITY SERVER 5.11.0](https://dimuthuk.medium.com/error-pages-customization-wso2-identity-server-5-11-0-b8621a52985a)
 - [WRITING CUSTOM USER OPERATION EVENT LISTENER -WSO2 IDENTITY SERVER](https://dimuthuk.medium.com/writing-custom-user-operation-event-listener-wso2-identity-server-5-11-0-7b210c389da5)
 - [SETTING UP A SEPARATE USER ATTRIBUTE STORE— WSO2 IDENTITY SERVER](https://dimuthuk.medium.com/attribute-store-configuration-wso2-identity-server-6bbaaaf7be7e)
+- [ID Token - Signature Validation | WSO2 Identity Server](https://dimuthuk.medium.com/id-token-signature-validation-wso2-identity-server-3d7d9ae471db)
 <br />
 <br />
 
