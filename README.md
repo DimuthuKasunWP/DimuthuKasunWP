@@ -46,6 +46,7 @@
 - [Manage Authenticated User Sessions Via REST API Using Asgardeo React SDK](https://dimuthuk.medium.com/manage-authenticated-user-sessions-via-rest-apis-using-asgardeo-react-sdk-3e43330ce128)
 - [Update Custom Attributes Via REST API Using Asgardeo React SDK](https://dimuthuk.medium.com/update-custom-attributes-via-rest-api-using-asgardeo-react-sdk-dcc7605ca7db)
 - [Configuring external IdPs in Asgardeo Using OpenID Connect Protocol](https://dimuthuk.medium.com/configuring-external-idps-in-asgardeo-using-openid-connect-protocol-4a0aae83cf09)
+- [Configuring external IdPs in Asgardeo Using SAML Protocol](https://dimuthuk.medium.com/configuring-external-idps-in-asgardeo-using-saml-protocol-4784187502b5)
 <br />
 <br />
 
