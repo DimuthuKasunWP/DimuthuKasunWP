@@ -47,6 +47,8 @@
 - [Update Custom Attributes Via REST API Using Asgardeo React SDK](https://dimuthuk.medium.com/update-custom-attributes-via-rest-api-using-asgardeo-react-sdk-dcc7605ca7db)
 - [Configuring external IdPs in Asgardeo Using OpenID Connect Protocol](https://dimuthuk.medium.com/configuring-external-idps-in-asgardeo-using-openid-connect-protocol-4a0aae83cf09)
 - [Configuring external IdPs in Asgardeo Using SAML Protocol](https://dimuthuk.medium.com/configuring-external-idps-in-asgardeo-using-saml-protocol-4784187502b5)
+- [How to Authenticate Users in Next.js with Asgardeo](https://dimuthuk.medium.com/user-authentication-in-nextjs-with-asgardeo-using-nextauth-js-76e228b1e582)
+- [Next.Js — User Authentication with WSO2 Identity Server](https://dimuthuk.medium.com/next-js-user-authentication-with-wso2-identity-server-683111a4d503)
 <br />
 <br />
 
