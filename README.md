@@ -49,6 +49,7 @@
 - [Configuring external IdPs in Asgardeo Using SAML Protocol](https://dimuthuk.medium.com/configuring-external-idps-in-asgardeo-using-saml-protocol-4784187502b5)
 - [How to Authenticate Users in Next.js with Asgardeo](https://dimuthuk.medium.com/user-authentication-in-nextjs-with-asgardeo-using-nextauth-js-76e228b1e582)
 - [Next.Js — User Authentication with WSO2 Identity Server](https://dimuthuk.medium.com/next-js-user-authentication-with-wso2-identity-server-683111a4d503)
+- [Integrate User Login to Your WordPress Website with WSO2 Identity Server](https://dimuthuk.medium.com/login-into-wordpress-website-with-wso2-identity-server-8f62f1e2a0e1)
 
 ### Demo & Presentations
 
