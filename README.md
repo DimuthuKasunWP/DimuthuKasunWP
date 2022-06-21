@@ -55,6 +55,7 @@
 - [Invoking APIs in Asgardeo](https://medium.com/identity-beyond-borders/invoking-apis-in-asgardeo-1592251a2a6b)
 - [Asgardeo as the Identity Provider in your APIM deployment](https://dimuthuk.medium.com/asgardeo-as-the-identity-provider-in-your-apim-deployment-51caabbee601)
 - [ExpressJS— User Authentication with Asgardeo](https://dimuthuk.medium.com/expressjs-user-authentication-with-asgardeo-39f7c23fe689)
+- [Log4j2 — How to write the Logs into an External Database](https://dimuthuk.medium.com/log4j2-how-to-write-the-logs-into-an-external-database-dd7b6e585746)
 
 ### Demo & Presentations
 
