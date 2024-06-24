@@ -29,7 +29,7 @@
   - [WSO2 Certified Identity Server Developer - V5](https://certification.wso2.com/web/certificate/AMDARW)
    
 
-### 👯 Work Experience 
+### Work Experience 
 
  - [Part Time Software Developer at Creative-2 | 2020 JAN - 2020 SEP ](https://www.linkedin.com/company/creative-2/)
  - [Trainee Software Enginner at Codegen | 2020 OCT - 2021 APR ](https://codegen.co.uk/)
