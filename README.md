@@ -34,7 +34,8 @@
  - [Part Time Software Developer at Creative-2 | 2020 JAN - 2020 SEP ](https://www.linkedin.com/company/creative-2/)
  - [Trainee Software Enginner at Codegen | 2020 OCT - 2021 APR ](https://codegen.co.uk/)
  - [Associate Software Engineer at WSO2 | 2021 MAY - 2022 MAY ](https://wso2.com/)
- - [Software Engineer at WSO2 | Since 2022 MAY ](https://wso2.com/)
+ - [Software Engineer at WSO2 | 2022 MAY - 2024 JAN ](https://wso2.com/)
+ - [Senior Software Engineer at WSO2 | Since 2024 JAN ](https://wso2.com/)
 
 ### Latest Articles
 
